@@ -36,10 +36,6 @@
 <td>See Also:</td>
 <td><a href="https://github.com/bxplpc/120033">PLPC-120074</a> (International Edition) -- <a href="https://github.com/bxplpc/120033">PLPC-120033</a> (US Edition) </td>
 </tr>
-<tr class="even">
-<td>AccessPage Revision:</td>
-<td>This AccessPage was produced on June 23, 2023 at 18:36 PDT (-0700)</td>
-</tr>
 <tr class="odd">
 <td>Author(s):</td>
 <td><a href="http://mohsen.1.banan.byname.net/contact">Mohsen BANAN</a></td>
@@ -47,6 +43,10 @@
 <tr class="even">
 <td>Comments, Feedback:</td>
 <td><a href="mailto:plpc-120074@mohsen.1.banan.byname.net">plpc-120075@mohsen.1.banan.byname.net</td>
+</tr>
+<tr class="even">
+<td>AccessPage Revision:</td>
+<td>This AccessPage was produced on June 23, 2023 at 18:36 PDT (-0700)</td>
 </tr>
 </tbody>
 </table>
