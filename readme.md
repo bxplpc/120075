@@ -34,7 +34,11 @@
 </tr>
 <tr class="odd">
 <td>See Also:</td>
-<td><a href="https://github.com/bxplpc/120033">PLPC-120074</a> (International Edition) -- <a href="https://github.com/bxplpc/120033">PLPC-120033</a> (US Edition) </td>
+<td>
+<a href="https://github.com/bxplpc/120074">International Edition</a>
+-- <a href="https://github.com/bxplpc/120033">US Edition</a>
+-- <a href="https://github.com/bxplpc/120076">Letter To Maraje</a>
+</td>
 </tr>
 <tr class="odd">
 <td>Author(s):</td>
